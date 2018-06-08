@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>primary</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>2</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">d18952e44f811300a071ff6f9310c7a1</sp_column>
+        <sp_widget display_value="dd18_list_widget">9989d6e84f411300a071ff6f9310c75f</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-21 15:55:29</sys_created_on>
+        <sys_id>118952e44f811300a071ff6f9310c7a3</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>K18 List Widget</sys_name>
+        <sys_package display_value="Polls" source="x_snc_polls">cd1f2766133e1200ed373d62f244b082</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Polls">cd1f2766133e1200ed373d62f244b082</sys_scope>
+        <sys_update_name>sp_instance_118952e44f811300a071ff6f9310c7a3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-21 17:08:05</sys_updated_on>
+        <title>K18 List Widget</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"table": {
+		"value": "change_request",
+		"displayValue": "change_request"
+	},
+	"query": {
+		"value": "priotity=1",
+		"displayValue": "priotity=1"
+	},
+	"template": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=118952e44f811300a071ff6f9310c7a3"/>
+</record_update>
